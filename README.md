@@ -1,7 +1,7 @@
 # Invoice Manager
-- Name: **Your Name**
-- Student Number: **Your Student Number**
-- Section Number: **Course Section Number**
+- Name: Mark Petryakov
+- Student Number: 041041858
+- Section Number: CST8257-301
 
 
 
